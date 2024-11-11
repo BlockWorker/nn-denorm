@@ -1,5 +1,6 @@
 /*.*
 /*/**
+!/hdl/**
 !/fastconv/*.py
 !/.gitignore
 !/*.py
